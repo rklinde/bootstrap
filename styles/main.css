@@ -54,9 +54,20 @@ body {
 	font-family: trend;
 }
 
-.mod1 {
+.mod2 {
 	background-color: rgb(224,224,224);
 	border-radius: 6px;
+	height: 350px;
+}
+
+.mod1 {
+	/*background-color: rgb(224,224,224);*/
+	background-color: black;
+	border-radius: 6px;
+}
+
+.mod1a {
+	vertical-align: center;
 }
 
 .media-object {
