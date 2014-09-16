@@ -1,0 +1,76 @@
+body {
+	font-family: sans-serif;
+	color: grey;
+}
+
+@font-face {
+    font-family: 'trend';
+    src: url('https://s3.amazonaws.com/nyicff_fonts/trend-webfont.eot');
+    src: url('https://s3.amazonaws.com/nyicff_fonts/trend-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://s3.amazonaws.com/nyicff_fonts/trend-webfont.woff') format('woff'),
+         url('https://s3.amazonaws.com/nyicff_fonts/trend-webfont.ttf') format('truetype'),
+         url('https://s3.amazonaws.com/nyicff_fonts/trend-webfont.svg#trend_sansone') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: trend;
+    src: url('https://s3.amazonaws.com/nyicff_fonts/trend.otf');
+}
+
+.carousel-inner {
+	width: 100%;
+}
+
+.nav {
+	padding-bottom: 25px;
+	font-family: trend;
+	font-size: 18px;
+}
+
+#nav a{
+	color: rgb(170, 166, 166);
+}
+
+.spacer {
+	height: 25px;
+}
+
+.row2 {
+	padding: 15px 0px 15px 0px;
+}
+
+.row2 img {
+	height: 200px;
+}
+
+.thumbnail {
+	text-align: center;
+	border: none;
+}
+
+.h1 {
+	font-family: trend;
+}
+
+.mod1 {
+	background-color: rgb(224,224,224);
+	border-radius: 6px;
+}
+
+.media-object {
+	width: 100px;
+}
+
+.media {
+	padding: 10px 0px 10px 0px;
+}
+
+.twitter-timeline {
+	padding-top: 20px;
+}
+
+.sponsors {
+	padding: 15px;
+}
